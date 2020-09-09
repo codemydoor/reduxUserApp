@@ -1,0 +1,29 @@
+.form {
+  position: relative;
+  right: 40rem;
+  top: 5rem;
+}
+input {
+  width: 20rem;
+  height: 1.5rem;
+  margin-bottom: 1rem;
+  margin-left: 25rem;
+}
+.button {
+  width: 20rem;
+  height: 1.5rem;
+  margin-left: 25rem;
+  cursor: pointer;
+}
+.infos {
+  margin-left: 50rem;
+  position: relative;
+  bottom: 6rem;
+}
+
+.editButton {
+  position: relative;
+  left: 25rem;
+  width: 20.5rem;
+  height: 1.5rem;
+}
